@@ -28,6 +28,7 @@ Kita akan coba buat component hello world yang nantinya akan di tampilkan di bro
     │   │   │   └── HelloWorld.jsx
     ```
 ## Membuat Component Pertama
+referensi: https://react.dev/reference/react-dom/components
 Buat file HelloWorld.jsx di folder src:
 ```bash
 ├── example-directory/
