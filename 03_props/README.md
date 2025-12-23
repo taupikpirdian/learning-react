@@ -17,6 +17,12 @@ Props (properties) adalah cara mengirim data dari parent component ke child comp
         )
     }
     ```
+## Mengirim Props
+- Contoh:
+    ```javascript
+    <HelloWorld text="React" />
+    ```
+
 ## Destructuring Props
 Destructuring Props adalah cara mengambil nilai dari object props dan mengassign ke variable.
 - Contoh:
